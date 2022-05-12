@@ -1,13 +1,11 @@
-# Yolov5 for Fire Detection
-
-**Compared with the Original Repository, the Adjustment Part:**
+# Compared with the Original Repository, the Adjustment Part:
 
 1. Modified Datasets: Add images to the Original Repository's datasets and manually adjust the labels.
 2. Modified the fire_config.yaml file: The fire_config.yaml file for this repository has been modified to match the Modified datasets.
 
 
 
-**Original Readme:**
+# Yolov5 for Fire Detection
 
 Fire detection task aims to identify fire or flame in a video and put a bounding box around it. This repo includes a demo on how to build a fire detection detector using YOLOv5. 
 
